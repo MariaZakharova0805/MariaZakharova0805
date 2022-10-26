@@ -1,3 +1,3 @@
-# Hi there, I'm Maria![](https://giphy.com/gifs/JIX9t2j0ZTN9S) 
+# Hi there, I'm Maria ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
 ### junior frontend developer
